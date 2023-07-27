@@ -30,6 +30,7 @@ class XylophoneApp extends StatelessWidget {
 
               MusicTile(number: 6, color: Colors.red),
               MusicTile(number: 7, color: Colors.pink),
+              MusicTile(color: Colors.limeAccent, number: 1),
 
               // TextButton(
               //   onPressed: () async {
